@@ -4,6 +4,17 @@
 
 # Description of the Problem
 
+
+# UML Class Diagram
+
+
+
+
+# Java Code Solution
+
+
+
+
 public interface Order
 {
   void calculateTotal(double price, int quantity);
@@ -53,12 +64,3 @@ public class OrderTest
     order.sendEmailNotification("johndoe@example.com");
   }
 }
-
-
-
-# UML Class Diagram
-
-
-
-
-# Java Code Solution
