@@ -1,8 +1,12 @@
 # Solid Principles
 
+# Kindly check the "src" folder for the Java Code (Solutions)
+
 # Date Created: May 5th, 2024
 
 # Description of the Problem
+
+Improve the following codes to implement SOLID principles in OOP.
 
     public class OrderAction implements Order
     {
