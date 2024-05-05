@@ -48,12 +48,7 @@
 
 
 # UML Class Diagram
-
-
-
-
-
-
+![CSL322-18_SE2_UML_LABA5_WK14-15_SOLID_PRINCIPLE](https://github.com/VinceTedChua/solidPrinciples2/assets/142372312/87af73a0-398a-4d0d-b368-c7c02ae1619d)
 
 
 # Java Code Solution
