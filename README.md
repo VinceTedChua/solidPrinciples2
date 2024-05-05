@@ -56,11 +56,8 @@
 
 
 
-
-
-
-
 # Java Code Solution
+![CSL322-18_SE2_LABA5_WK14-15_SOLID_PRINCIPLE](https://github.com/VinceTedChua/solidPrinciples2/assets/142372312/66a6a4d7-daa7-4f92-a6d9-544269584a24)
 
 
 
